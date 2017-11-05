@@ -1,0 +1,12 @@
+E:\imdb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\imdb\DAL\bin\Debug\DAL.exe.config
+E:\imdb\DAL\bin\Debug\DAL.exe
+E:\imdb\DAL\bin\Debug\DAL.pdb
+E:\imdb\DAL\obj\Debug\DAL.exe
+E:\imdb\DAL\obj\Debug\DAL.pdb
+X:\imdb\DAL\bin\Debug\DAL.exe.config
+X:\imdb\DAL\bin\Debug\DAL.exe
+X:\imdb\DAL\bin\Debug\DAL.pdb
+X:\imdb\DAL\obj\Debug\DAL.exe
+X:\imdb\DAL\obj\Debug\DAL.pdb
+X:\imdb\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
